@@ -15,3 +15,13 @@
 ## 상세정보
 - 기본적인 기능인 로그인, 로그아웃, 게시물 CRUD
 - 부트스트랩 CSS 적용
+
+## 일부 사진
+- 메인 화면
+![1](https://github.com/jysung1122/jsp-crudBBS/assets/56614779/66db4252-0e8d-465e-b85d-78916e3ba015)
+
+- 게시판 화면
+![2](https://github.com/jysung1122/jsp-crudBBS/assets/56614779/634d8d1a-03fe-4862-bf98-026036caac7b)
+
+- 내부 글 화면
+![3](https://github.com/jysung1122/jsp-crudBBS/assets/56614779/deff84e2-fade-446d-8e5d-1cf44d5f547a)
