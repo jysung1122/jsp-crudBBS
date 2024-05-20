@@ -1,5 +1,6 @@
 # jsp-crudBBS
 - jsp로 CRUD 게시판 프로젝트
+- [참고 사이트](https://happy-inside.tistory.com/entry/JSP-JSP-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%EA%B0%95-%EC%A4%80%EB%B9%84)
 
 ### 개발 환경
 - apache-tomcat-8.5.100
